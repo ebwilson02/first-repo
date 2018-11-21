@@ -1,0 +1,6 @@
+public class Goodbye163 {
+  public static void main(String[] args) {
+    String phrase = "Goodbye COMP 163";
+    System.out.println(phrase);
+  }
+}
